@@ -1,0 +1,12 @@
+*{
+  padding: inherit;
+  margin: auto;
+  border: 10px;
+}
+h1 {
+  font-family: 'Bungee Hairline', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(155, 40, 130);
+  
+}
